@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Local food lover and avid traveler<br>🚀 Independent learner<br> 🏛️ Bachelor in Software Engineering, Monash University Malaysia<br> 👊 Looking forward to develop my expertise</p>
+<p align="left">✨ Local food lover and avid traveler<br>🚀 Independent learner<br> 🎤 Humourous public speaker<br> 🏛️ Bachelor in Software Engineering, Monash University Malaysia<br> 👊 Looking forward to participating in coding/programming comptitions</p>
 
 ###
 
