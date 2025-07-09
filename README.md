@@ -7,7 +7,6 @@
 <h2 align="left">About me</h2>
 
 ###
-
 <p align="left"><br> 🏛️ Bachelor in Software Engineering (Hons), Monash University Malaysia</p>
 
 ###
