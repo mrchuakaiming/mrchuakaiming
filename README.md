@@ -2,15 +2,13 @@
 
 ###
 
-<p align="left">I'm  Chua Kai Ming from Malaysia 😎</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Local food lover and avid traveler<br>🚀 Independent learner<br> 🎤 Humourous public speaker<br> 🏛️ Bachelor in Software Engineering, Monash University Malaysia<br> 👊 Looking forward to participating in coding/programming comptitions</p>
+<p align="left"><br> 🏛️ Bachelor in Software Engineering, Monash University Malaysia<br> 👊 Looking forward to participating in coding/programming comptitions</p>
 
 ###
 
