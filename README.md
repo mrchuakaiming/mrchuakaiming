@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"><br> 🏛️ Bachelor in Software Engineering, Monash University Malaysia<br> 👊 Looking forward to participating in coding/programming comptitions</p>
+<p align="left"><br> 🏛️ Bachelor in Software Engineering (Hons), Monash University Malaysia</p>
 
 ###
 
